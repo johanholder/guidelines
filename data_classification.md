@@ -8,9 +8,11 @@ Classification of data will aid in determining baseline security controls for th
 assessing Impact Levels. It further defines roles and responsibilities for implementing this approach to
 mitigate the risk of a data breach.
 It is useful to recognise two contexts in which data is used:
-● Usage 1: Controlled within a System of Record that is operated under the direction of an identified
+
+-  Usage 1: Controlled within a System of Record that is operated under the direction of an identified
 Data Steward.
-● Usage 2: Outside of a System of Record by employees using the data in the course of their work.
+- Usage 2: Outside of a System of Record by employees using the data in the course of their work.
+
 Mitigating risk of breach in Usage #2 is the objective of this Guideline. Employees may not have a deep
 understanding of the risks of a breach associated with each confidential data type. Hence, a Data
 Classification is assigned to the various data types to allow an organisation to control and report
