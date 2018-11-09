@@ -24,19 +24,26 @@ of Record as directed by Data Stewards.
 
 **Breach​** is a loss of confidentiality, integrity, or availability that has the potential to cause some level of
 negative impact to the organisation or to individuals.
+
 **Confidential Data​** is a generalized term that typically represents data classified as Restricted, according
 to the data classification scheme defined in this Guideline. This term is often used interchangeably with
 sensitive data.
+
 **Data Steward​** is a senior-level employee of the University who oversees the lifecycle of one or more sets
 of Institutional Data. See the Information Security Roles and Responsibilities for more information.
+
 **Data Type​** is a specific category of information (e.g. personally identifiable information, protected health
 information, financial records, etc).
+
 **Data Classification​** is a simple and high level means of identifying the level of security and privacy
 protection to be applied to a Data Type. One of ​ **Public​** ,​ **Internal​** , or ​ **Restricted​** (defined below).
+
 **Impact Level​** is a summary assessment of degree of impact in case of data breach that begins to suggest
 the security safeguards used to protect the data. One of ​ **High​** , ​ **Medium​** , ​ **Low​** or ​ **None​** (defined below).
+
 **Non-public Information​** is defined as any information that is classified as Private or Internal Information
 according to the data classification scheme defined in this Guideline.
+
 **Sensitive Data​** is a generalized term that typically represents data classified as Restricted, according to
 
 
