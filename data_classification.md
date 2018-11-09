@@ -45,8 +45,6 @@ the security safeguards used to protect the data. One of ​ **High​** , ​ *
 according to the data classification scheme defined in this Guideline.
 
 **Sensitive Data​** is a generalized term that typically represents data classified as Restricted, according to
-
-
 the data classification scheme defined in this Guideline. This term is often used interchangeably with
 confidential data.
 
@@ -58,42 +56,13 @@ authorization. The classification of data helps determine what baseline security
 
 ### for safeguarding that data. Data should be classified into one of three sensitivity levels, or classifications:
 
-```
-Data Classification Definition Impact Level
-Restricted Data Confidential information
-requiring the highest level of
-security and privacy protection.
-Data should be classified as
-Restricted when the
-unauthorized disclosure,
-alteration or destruction of that
-data could cause a significant
-level of risk to the organisation
-or its affiliates.
-High, Medium
-Internal Confidential information
-requiring diligent security and
-privacy protection. Information
-may be shared within the
-organisation on a need to know
-basis. Data should be classified
-as Internal when the
-unauthorized disclosure,
-alteration or destruction of that
-data could result in a moderate
-level of risk to the organisation
-or its affiliates.
-Low
-Public Information may be published
-and shared freely. Data should
-be classified as Public when the
-unauthorized disclosure,
-alteration or destruction of that
-data would results in little or no
-risk to the organisation and its
-affiliates.
-None
-```
+
+| Data Classification Definition | Impact Level             |
+| ===========                    | ====================     |
+| Restricted Data                | Confidential information requiring the highest level of security and privacy protection. Data should be classified as Restricted when the unauthorized disclosure, alteration or destruction of that data could cause a significant level of risk to the organisation or its affiliates. |High, Medium|
+|Internal |Confidential information requiring diligent security and privacy protection. Information may be shared within the organisation on a need to know basis. Data should be classified as Internal when the unauthorized disclosure, alteration or destruction of that data could result in a moderate level of risk to the organisation or its affiliates. |Low|
+|Public |Information may be published and shared freely. Data should be classified as Public when the unauthorized disclosure, alteration or destruction of that data would results in little or no risk to the organisation and its affiliates.| None|
+
 ## Calculating Classification
 
 The goal of information security, is to protect the confidentiality, integrity and availability of an
