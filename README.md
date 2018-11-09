@@ -1,2 +1,2 @@
 # Guidelines
-- [Data Classification](data_classification.md)
+- [Data Classification](data_classification)
